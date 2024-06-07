@@ -1,0 +1,40 @@
+Build Java applications with Spring Boot and Hibernate
+All Java and Maven (no XML)
+Spring Boot 3 need Java Kit JDK 17 or higher!
+
+Spring is a very popular framework for building Java applications
+Building a traditional Spring application is hard!
+
+Spring Boot is the solution to minimise amount of manual config.
+
+Spring Boot uses Spring behind the scenes.
+
+Spring Initializer
+Quickly creates a Spring Boot project
+http://start.spring.io
+Select dependencies
+Creates a Maven project
+Import project into IDE (IntelliJ)
+
+Spring Boot provides an embedded http server - get started quickly ie Tomcat.
+Self-contained unit - nothing else to install
+
+Spring Boot app runs as a stand-alone - just run from IDE or command line
+
+Spring Boot apps also deploy in the traditional way too - WAR file to an external server.
+
+Spring Boot uses Spring MVC, Spring Rest technologies.
+
+Maven
+Tell Maven the project and dependencies
+Spring, Hibernate, etc...
+Maven downloads the relevant JAR files
+Maven will use JAR files during compile and run
+Maven is a helper.
+
+Process... step-by-step
+1. Spring Initializer htp://start.spring.io
+2. Download the zip file it creates
+3. Unzip the file
+4. Import the Maven project into the IDE IntelliJ
+

@@ -1,5 +1,0 @@
-Build Java applications with Spring Boot and Hibernate
-All Java and Maven (no XML)
-Spring Boot 3 need Java Kit JDK 17 or higher!
-
-Spring is a very popular framework for building Java applications
